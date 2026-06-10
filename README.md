@@ -1,14 +1,14 @@
 # 👨‍💻 Kaoutar Zahir — Full Stack Web Developer
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Morocco-Marrakesh-EE334A?style=for-the-badge&logo=morocco" alt="Location">
+  <img src="https://img.shields.io/badge/Morocco-Safi-EE334A?style=for-the-badge&logo=morocco" alt="Location">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-00A8FF?style=for-the-badge&logo=github" alt="Role">
   <img src="https://img.shields.io/badge/Status-Learning%20Python-FFD700?style=for-the-badge&logo=python" alt="Learning">
   <img src="https://img.shields.io/badge/Open_to_Work-YES-00C853?style=for-the-badge&logo=checkmark" alt="Open to Work">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KAOUTAR_USERNAME&show_icons=true&title_color=00A8FF&text_color=333&icon_color=00A8FF&bg_color=F5F5F5&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZahirKaoutar&show_icons=true&title_color=00A8FF&text_color=333&icon_color=00A8FF&bg_color=F5F5F5&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
@@ -132,5 +132,5 @@ I'm always open to discussing:
   <br><br>
   <em>✨ Crafting scalable solutions with clean code ✨</em>
   <br><br>
-  <img src="https://visitor-badge.laobi.icu/visitor-badge?username=KAOUTAR_USERNAME&repository=KAOUTAR_USERNAME" alt="Visitor Counter"/>
+  <img src="https://visitor-badge.laobi.icu/visitor-badge?username=ZahirKaoutar&repository="ZahirKaoutar" alt="Visitor Counter"/>
 </div>
