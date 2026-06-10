@@ -94,9 +94,9 @@ I specialize in building **modern, scalable, and user-friendly applications** wi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAOUTAR_USERNAME&show_icons=true&title_color=00A8FF&text_color=333&icon_color=00A8FF&bg_color=F5F5F5&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=KAOUTAR_USERNAME&theme=ghost&no-bg=true&row=1" alt="GitHub Trophy"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAOUTAR_USERNAME&theme=dark&title_color=00A8FF&border_color=00A8FF" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZahirKaoutar&show_icons=true&title_color=00A8FF&text_color=333&icon_color=00A8FF&bg_color=F5F5F5&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ZahirKaoutar&theme=ghost&no-bg=true&row=1" alt="GitHub Trophy"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahirKaoutar&theme=dark&title_color=00A8FF&border_color=00A8FF" alt="Streak Stats"/>
 </div>
 
 ---
@@ -105,9 +105,9 @@ I specialize in building **modern, scalable, and user-friendly applications** wi
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/KAOUTAR_USERNAME)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://linkedin.com/in/KAOUTAR_USERNAME)
-[<img src="https://img.shields.io/badge/Email-D44C4C?style=for-the-badge&logo=email&logoColor=white" alt="Email">](mailto:KAOUTAR_EMAIL)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/ZahirKaoutar)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">]([https://linkedin.com/in/KAOUTAR_USERNAME](https://www.linkedin.com/in/kaoutar-zahir-39a024284/))
+[<img src="https://img.shields.io/badge/Email-D44C4C?style=for-the-badge&logo=email&logoColor=white" alt="Email">](mailto:zahirkaoutar2003@gmail.com)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">](https://twitter.com/KAOUTAR_USERNAME)
 
 </div>
