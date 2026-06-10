@@ -96,7 +96,7 @@ I specialize in building **modern, scalable, and user-friendly applications** wi
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZahirKaoutar&show_icons=true&title_color=00A8FF&text_color=333&icon_color=00A8FF&bg_color=F5F5F5&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-profile-trophy.vercel.app/?username=ZahirKaoutar&theme=ghost&no-bg=true&row=1" alt="GitHub Trophy"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahirKaoutar&theme=dark&title_color=00A8FF&border_color=00A8FF" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahirKaoutar/&theme=dark&title_color=00A8FF&border_color=00A8FF" alt="Streak Stats"/>
 </div>
 
 ---
