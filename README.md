@@ -28,40 +28,8 @@ Holding an Associate Degree in Digital Development (**ISTA NTIC Bac+2**) and cur
 
 ---
 
-### 🔬 Curated Engineering Repertoire (4 Major Volumes)
 
-```text
-VOLUME 01 ─── [ML / DATA SCIENCE]     Student Mental Health Risk Prediction (~77% CV Acc, Airflow DAG, Streamlit)
-VOLUME 02 ─── [FULL STACK / HEALTH]   BloodConnect — Blood Donation Logistics (Laravel 11, Vue.js, FIFO Stock Ledger)
-VOLUME 03 ─── [DATA ENGINEERING]      MétéoRisk — Morocco Meteorological Lakehouse (Medallion B/S/G, Airflow, PostgreSQL)
-VOLUME 04 ─── [DEEP LEARNING / VISION] BrainScan AI — MRI Neuroimaging Classifier (TensorFlow/Keras CNN, 4 Classes)
-```
 
-#### [01. Student Mental Health Risk Prediction](https://github.com/ZahirKaoutar/Sante-mentale-etudiant)
-* **Category**: Machine Learning & MLOps
-* **Stack**: Python, Scikit-learn, Apache Airflow, Streamlit, Pandas, NumPy, Docker
-* **Architecture**: Cohort analysis of 2,000 university students across 17 behavioral dimensions. Preprocessing pipeline using Scikit-Learn `ColumnTransformer` (standard scaling, one-hot encoding). Benchmarked Decision Tree (55.4%), Random Forest (68.8%), and Gradient Boosting (70.3%) against optimized **Logistic Regression (~77.0% CV Accuracy, 0.77 Macro F1)**. Deployed with an interactive Streamlit UI (`app/app.py`) and scheduled via an Apache Airflow MLOps DAG (`dag/mental_health_dag.py`).
-
-#### [02. BloodConnect — Healthcare Logistics](https://github.com/ZahirKaoutar/SangBanque)
-* **Category**: Full Stack Development & Distributed Logistics
-* **Stack**: Laravel 11, PHP, Vue.js, PostgreSQL/MySQL, Docker, REST APIs
-* **Architecture**: Role-based coordination system with 4 distinct portals (Donors, Hospitals, Blood Donation Centers, Administrators). Enforces statutory donation interval checks (56 days), blood stock inventory across 8 blood groups (`A+`, `A-`, `B+`, `B-`, `AB+`, `AB-`, `O+`, `O-`), and automated expiration monitoring using strict FIFO (First In, First Out) dispensation.
-
-#### [03. MétéoRisk — Meteorological Lakehouse](https://github.com/ZahirKaoutar/marocco_weather_pipeline)
-* **Category**: Data Engineering & Climate Risk Analytics
-* **Stack**: Apache Airflow, Python, PostgreSQL, Streamlit, Plotly Express, ETL
-* **Architecture**: Automated data pipeline implementing the industry-standard **Lakehouse Medallion Architecture**:
-  * **Bronze Tier**: Date-partitioned raw JSON snapshots (`data/bronze/`)
-  * **Silver Tier**: Schema validation, deduplication, and missing value treatment (`data/silver/`)
-  * **Gold Tier**: Feature engineering and aggregated regional risk indices (`data/gold/`)
-  * **Orchestration**: Daily Airflow DAG (`dags/meteorisk_pipeline.py`) loading cleaned data into PostgreSQL and serving interactive Plotly maps in Streamlit (`dashboard/app.py`).
-
-#### [04. BrainScan AI — Neuroimaging Deep Vision](https://github.com/ZahirKaoutar/cerveaux)
-* **Category**: Deep Learning & Computer Vision
-* **Stack**: Python, TensorFlow, Keras, CNN, OpenCV/PIL, NumPy, Streamlit
-* **Architecture**: Deep Convolutional Neural Network (CNN) trained on brain MRI neuroimaging scans to classify and detect brain tumors across four distinct classes: **Glioma, Meningioma, Pituitary Tumor, and No Tumor (Healthy)**. Resizes and normalizes images to 224×224 tensors with real-time Softmax confidence distribution visualizers in Streamlit (`src/app.py`).
-
----
 
 ### 💼 Verified Professional Experience
 
